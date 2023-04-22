@@ -1,4 +1,3 @@
 function showmessage (message) {
-    document.getElementById('message').textC
-    ontent = message;
+    document.getElementById('message').textContent = message;
 }
