@@ -32,6 +32,8 @@
 
 
 
+
+
 // let price = 25.99;
 // price += 5;
 // showMessage(price); 
@@ -86,6 +88,64 @@
 // console.log(price);
 
 // this is the decrement operator
+
+
+
+
+
+
+// string 
+
+//  let message = "\"hello world\"";
+//  showMessage(message);
+
+//  this way we can escape characters using blackslash
+
+
+// let message = `hello world`; 
+//  showMessage(message);
+
+// backticks are used for interpretation which is as shown below and we can aslo add new lines to it  
+
+// let name= 'muneesh';
+// let message = `hello ${name}`; 
+//  showMessage(message);
+//  console.log(message);
+
+
+//manipulating strings
+
+//  let message = " hello";
+
+//  message = message + " shivam";
+
+//  showMessage(message);
+
+
+
+
+//  let message = " hello";
+
+//  message = message.toLowerCase();
+
+//  showMessage(message);
+
+
+
+//  let message = " hello";
+
+//  message = message.toUpperCase();
+
+//  showMessage(message);
+
+
+
+//  let message = " hello";
+
+//  message = message.toUpperCase();
+
+ showMessage(message);
+
 
 
 
