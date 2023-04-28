@@ -20,15 +20,6 @@
 
 
 
-/*  PROBLEM 8: concatenation of array */
-
-// const array1 = ['1','2','1'];
-// const array2 = ['1','2','1'];
-// const array3 = array1.concat(array2);
-// console.log(array3);
-
-
-
 
 
 /* concatenation of 3 arrays */
@@ -175,9 +166,13 @@
 //this will insert the value in the array where we put aa in the second index  and 0 represent that we dont delete anything 
 
 
+
+
+
 // const values = [2,3,5,7,9];
 // values.splice(2,0,"aa");      
 // console.log(values);
+
 
 
 
@@ -188,6 +183,10 @@
 // console.log(values);
 
 
+
+
+
+
 //slice 
 
 // it slices the array into another array and does not change the original array 
@@ -195,10 +194,6 @@
 // const number =[2,4,6,78,86];
 // const anotherNumber = number.slice(2,4);
 // console.log(anotherNumber);
-
-
-
-
 
 
 
@@ -297,6 +292,17 @@
 
 
 
+/*  PROBLEM 8: concatenation of array */
+
+// const array1 = ['1','2','1'];
+// const array2 = ['1','2','1'];
+// const array3 = array1.concat(array2);
+// console.log(array3);
+
+
+
+
+
 // truthly and falsly 
 
 
@@ -319,4 +325,8 @@
 // }
 
 // test(...value);
+
+
+
+
 

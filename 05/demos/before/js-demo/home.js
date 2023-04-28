@@ -1,8 +1,14 @@
+/* HOW TO SUBSTRING  */
+
 //  let message = "hello";
 
 //  message = message.substring(2); // it slice the string 
 
 // showMessage(message);
+
+
+
+/* TO FIND THE LENGTH */
 
 //  let message = "hello";
 
@@ -16,14 +22,23 @@
 // showMessage( message + 3);
 
 
+
+/* CONVERT INTO STRING */ 
+
+
 // let amount = 123;
 // amount= amount.toString(); // this automatically convert a number into string 
 //   showMessage(typeof amount);
 
 
 
+
+/*CONVERTING STRING INTO NUMBER*/
+
+
 // let amount =  Number.parseFloat("123.22") ; // we can not put a character is not present
 //   showMessage(typeof amount);
+
 
 
 // let saved = true;
@@ -37,5 +52,4 @@
 // };
 
 // showMessage(person.firstname); // dot operator 
-
 
