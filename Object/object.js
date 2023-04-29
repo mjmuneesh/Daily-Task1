@@ -120,6 +120,8 @@
 
 
 
+
+
 //external function
 
 //here we are binding  an external function 
@@ -139,3 +141,10 @@
 
 //     let x= getage.bind(object);
 //     x();
+
+
+
+
+
+
+
