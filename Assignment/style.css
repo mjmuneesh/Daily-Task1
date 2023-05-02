@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: #fff;
+}
+.container {
+    text-align: center;
+    border: 2px solid black;
+    width: 750px;
+    padding: 2vh 2vw;
+    background-color: #3abeca;
+    border-radius: 5px;
+}
+
+input[type="text"],input[type="email"],input[type="tel"]{
+    width: 350px;
+}
+input[type="checkbox"],input[type="radio"]{
+    margin: 5px 10px;
+}
+
+label{
+    border: 2px solid black;
+    width: 300px;
+    background-color: #fff;
+    /* padding: 1vh 1vw; */
+}
+
+#showbtn{
+    display: none;
+}
+.details{
+    display: none;
+}
