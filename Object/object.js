@@ -1,9 +1,21 @@
-//objects 
+//objects ( passing object in a function)
+
+// function personDetails(){
+// let person={
+//     firstName:'Ashima',
+//     lastNAme:'Gupta'
+// };
+
+// registeruser(person); /
+// }
+//  function registeruser(person){
+    // console.log(person.firstName + " "+ person.lastNAme);
+    //  }
 
 
 
 //  creating a function and 
-// adding function to an object
+// added it to an object
 
 // let person ={
 //     name:"muneesh",
